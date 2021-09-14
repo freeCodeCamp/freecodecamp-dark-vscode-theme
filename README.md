@@ -5,6 +5,11 @@
   <br />
   <br />
   <br />
-  <p style="color:white; font-weight: 100">VS Code theme using freeCodeCamp's color scheme</p>
+  <p style="font-weight: 100">Download this freeCodeCamp Dark Theme for VS Code</p>
+  <p style="font-weight: 100">Here's a preview:</p>
   <img alt="freeCodeCamp Dark Theme" src="https://user-images.githubusercontent.com/20648924/133186344-0639d5c8-b48c-4f4c-b72b-e9d3f655abc2.png" />
+  <p style="font-weight: 100">Be sure to check out our interactive coding curriculum on <a href="https://freecodecamp.org/">freecodecamp.org</a></p>
+  <br />
+  <br />
+  <br />
 </div>

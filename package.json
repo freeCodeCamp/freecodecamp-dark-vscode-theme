@@ -1,7 +1,7 @@
 {
     "name": "freecodecamp-dark-vscode-theme",
-    "displayName": "freeCodeCamp-dark-vscode-theme",
-    "description": "freeCodeCamp's dark theme for VS Code",
+    "displayName": "freeCodeCamp Dark Theme",
+    "description": "freeCodeCamp Dark Theme for Visual Studio Code",
     "publisher": "freeCodeCamp",
     "version": "0.0.1",
     "engines": {
@@ -10,6 +10,15 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/logo-128X128.png",
+    "galleryBanner": {
+        "color": "#03041b",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/moT01/freecodecamp-dark-vscode-theme"
+    },
     "contributes": {
         "themes": [
             {
