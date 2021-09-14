@@ -2,7 +2,7 @@
     "name": "freecodecamp-dark-vscode-theme",
     "displayName": "freeCodeCamp-dark-vscode-theme",
     "description": "freeCodeCamp's dark theme for VS Code",
-    "publisher": "freeCodeCamp-org",
+    "publisher": "freeCodeCamp",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"

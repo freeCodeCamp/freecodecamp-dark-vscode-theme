@@ -13,6 +13,6 @@
 
 ## How to publish the extension:
 - You will need the `vsce` command. Install it with `npm install -g vsce` if you don’t have it
-- Log in to the freeCodeCamp account with `vsce login freeCodeCamp-org`, you will be prompted for the personal access token
+- Log in to the freeCodeCamp account with `vsce login freeCodeCamp`, you will be prompted for your personal access token
 - Run `vsce package` to create the `.vsix` file
 - Run `vsce publish` to publish the new version
