@@ -36,7 +36,7 @@
     "input.background": "#0a0a23",
     "input.border": "#0a0a23",
     "inputOption.activeBorder": "#d0d0d5",
-    "selection.background": "#d0d0d5",
+    "selection.background": "#3b3b4f",
     "descriptionForeground": "#ffffff",
     "scrollbarSlider.background": "#0a0a2399",
     "scrollbarSlider.activeBackground": "#0a0a2399",
