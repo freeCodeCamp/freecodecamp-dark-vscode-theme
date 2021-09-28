@@ -1,31 +1,31 @@
 {
-    "name": "freecodecamp-dark-vscode-theme",
-    "displayName": "freeCodeCamp Dark Theme",
-    "description": "freeCodeCamp Dark Theme for Visual Studio Code",
-    "publisher": "freeCodeCamp",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/logo-128X128.png",
-    "galleryBanner": {
-        "color": "#0a0a23",
-        "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/freeCodeCamp/freecodecamp-dark-vscode-theme"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "freeCodeCamp Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/freeCodeCamp Dark Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "freecodecamp-dark-vscode-theme",
+  "displayName": "freeCodeCamp Dark Theme",
+  "description": "freeCodeCamp Dark Theme for Visual Studio Code",
+  "publisher": "freeCodeCamp",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/logo-128X128.png",
+  "galleryBanner": {
+    "color": "#0a0a23",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/freecodecamp-dark-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "freeCodeCamp Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/freeCodeCamp Dark Theme-color-theme.json"
+      }
+    ]
+  }
 }
