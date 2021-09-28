@@ -12,7 +12,7 @@
     ],
     "icon": "images/logo-128X128.png",
     "galleryBanner": {
-        "color": "#03041b",
+        "color": "#0a0a23",
         "theme": "dark"
     },
     "repository": {
