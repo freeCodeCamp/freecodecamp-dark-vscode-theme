@@ -1,7 +1,7 @@
 {
   "name": "freeCodeCamp-dark",
   "type": "dark",
-	"colors": {
+  "colors": {
     "activityBar.background": "#0a0a23",
     "activityBar.foreground": "#ffffff",
     "activityBar.border": "#0a0a23",
@@ -24,6 +24,8 @@
     "statusBar.background" : "#0a0a23",
     "statusBar.noFolderBackground" : "#0a0a23",
     "statusBar.debuggingBackground": "#0a0a23",
+    "statusBar.border": "#2a2a40",
+    "statusBarItem.remoteBackground": "#0a0a23",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#2a2a40",
     "tab.inactiveBackground": "#1b1b32",
@@ -51,12 +53,12 @@
     "list.hoverBackground": "#1b1b32",
     "editor.lineHighlightBorder": "#2a2a40",
     "activityBarBadge.background": "#007acc",
-		"window.activeBorder": "#0a0a23",
-		"window.inactiveBorder": "#2a2a40",
-		"titleBar.activeBackground": "#0a0a23",
-		"titleBar.activeForeground": "#ffffff",
-		"titleBar.inactiveBackground": "#2a2a40",
-		"titleBar.inactiveForeground": "#dfdfe2",
+    "window.activeBorder": "#0a0a23",
+    "window.inactiveBorder": "#0a0a23",
+    "titleBar.activeBackground": "#0a0a23",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#2a2a40",
+    "titleBar.inactiveForeground": "#dfdfe2",
   },
   "tokenColors": [
     {
