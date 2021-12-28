@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "freeCodeCamp-dark",
   "type": "dark",
   "colors": {
