@@ -3,7 +3,7 @@
   "displayName": "freeCodeCamp Dark Theme",
   "description": "freeCodeCamp Dark Theme for Visual Studio Code",
   "publisher": "freeCodeCamp",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.69.0"
   },
