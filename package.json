@@ -5,7 +5,7 @@
   "publisher": "freeCodeCamp",
   "version": "0.1.0",
   "engines": {
-    "vscode": "^1.46.0"
+    "vscode": "^1.69.0"
   },
   "categories": [
     "Themes"
